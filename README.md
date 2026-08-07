@@ -111,30 +111,3 @@ feel free to reach out:
 
 **Email:** abhilkj4@gmail.com
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abhil2004&show_icons=true&hide_border=true&count_private=true" 
-     alt="Abhil's GitHub Stats"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhil2004&hide_border=true" 
-     alt="GitHub Streak"/>
-
-</p>
-
----
-
-<p align="center">
-  <b>💡 "Build. Learn. Improve. Repeat."</b>
-</p>
-
-<p align="center">
-  ⭐ Feel free to explore my repositories and connect with me!
-</p>
